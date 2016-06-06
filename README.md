@@ -16,7 +16,13 @@ git clone https://github.com/kranfix/dsp.git
 ```
 ## Project
 
-MAF: Moving Avergae Filter (C++)
+### C++
+
+MAF: Moving Avergae Filter
+
+### C
+
+control: Linear control systems (PID, feedback, feedforward, integral action)
 
 ## File Extensions
 
